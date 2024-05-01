@@ -1,0 +1,23 @@
+.H1{
+    background-color: purple; 
+    color: black;
+    text-align: center;
+}
+
+.btn{
+    color: black;
+    font-size:15PX;
+    padding: 3px 3px 3px 3px;
+}
+
+.btn:hover{
+    background-color: rgb(78, 46, 46);
+    color: white;
+    transition: 0.5s;
+}
+
+.img{
+    width: 450px;
+    height: auto;
+}
+
