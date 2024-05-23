@@ -1,0 +1,134 @@
+.child1 {
+    margin-top: 40px;
+    margin-left: 300px;
+}
+
+.main{
+    display: flex;
+}
+
+.box1 img{
+    width: 170px;
+    display: flex;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    margin-left: 90px;
+    height: auto;
+}
+.child2{
+    margin-left: 30px;
+    margin-top: 40px;
+}
+
+.FB {
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+    margin-left: -90px;
+}
+
+.FB img{
+    display: flex;
+    width: 16px;
+    height: 16px;
+    margin-top: -2px;
+}
+
+h3{
+    margin-top: -2px;
+    margin-left: 10px;
+    font-size: 14px;
+    font-weight:600;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+h4{
+    text-align: center;
+    font-weight: lighter;
+    margin-top: 5px;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.box2{
+    display: flex;
+}
+
+.box2 h5{
+    font-size: 14px;
+    margin-left: 5px;
+}
+
+.box1{
+    border: solid rgb(223, 216, 216);
+    width: 350px;
+    border-width: 1.5px;
+    border-radius: 2px;
+    text-align: center ;
+    height: 380px;
+}
+
+h1{
+    text-align: center;
+}
+
+.box1 input{
+    border-top-style: solid;
+    border-left-style: solid;
+    border-width: 1px;
+    background-color: aliceblue;
+    width: 270px;
+    height: 30px;
+    border-radius: 5px;
+    border-color: rgb(223, 216, 216);
+    margin-top: 5px;
+    
+}
+
+.box1 button{
+    margin-top: 10px;
+    width: 275px;
+    height: 30px;
+    background-color: rgb(75, 165, 238);
+    color: white;
+    font-weight: bold;
+    border-radius: 5px;
+    border: none;
+}
+
+.box2{
+    margin-top: 10px;
+    border: solid rgb(223, 216, 216);
+    width: 350px;
+    border-width: 1.5px;
+    border-radius: 2px;
+    text-align: center ;
+    justify-content: center ;
+}
+
+.box3 h6 {
+    text-align: center;
+    font-size: 14px;
+    margin-top: -0.01cm;
+    font-weight: lighter;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.image{
+    margin-left: 28px;
+    margin-top: -15px;
+}
+
+.box3{
+    margin-top: 15px;
+}
+
+.box2 h5{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    text-decoration: none;
+}
+
+a{
+    text-decoration: none;
+}
